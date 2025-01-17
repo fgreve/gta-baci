@@ -1,0 +1,10 @@
+shiny
+pandas
+plotly-express
+shinywidgets
+shinyswatch
+google-cloud-storage
+fsspec
+gcsfs
+
+
